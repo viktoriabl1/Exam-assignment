@@ -1,0 +1,2142 @@
+Latitude: 59.9133
+Longitude: 10.7389
+Temperature: -1
+Precipitation: 0.2
+Humidity: 84.3
+**********************************
+Latitude: 58.4783
+Longitude: 6.06306
+Temperature: 0.8
+Precipitation: 0.1
+Humidity: 74.8
+**********************************
+Latitude: 58.97
+Longitude: 5.73139
+Temperature: 2
+Precipitation: 0
+Humidity: 64.8
+**********************************
+Latitude: 59.4464
+Longitude: 5.29833
+Temperature: 0
+Precipitation: 0
+Humidity: 73
+**********************************
+Latitude: 58.8517
+Longitude: 5.73611
+Temperature: 1.7
+Precipitation: 0
+Humidity: 67.7
+**********************************
+Latitude: 58.365
+Longitude: 6.31028
+Temperature: -0.1
+Precipitation: 0.2
+Humidity: 77.3
+**********************************
+Latitude: 58.5197
+Longitude: 6.46139
+Temperature: -3.4
+Precipitation: 0.2
+Humidity: 82.2
+**********************************
+Latitude: 58.6569
+Longitude: 6.14667
+Temperature: -0.1
+Precipitation: 0.1
+Humidity: 74.2
+**********************************
+Latitude: 58.6064
+Longitude: 5.72472
+Temperature: -0.3
+Precipitation: 0
+Humidity: 79.3
+**********************************
+Latitude: 58.7772
+Longitude: 5.59667
+Temperature: 1.8
+Precipitation: 0
+Humidity: 74.8
+**********************************
+Latitude: 58.7228
+Longitude: 5.76528
+Temperature: 1.1
+Precipitation: 0
+Humidity: 74
+**********************************
+Latitude: 58.7819
+Longitude: 6.00861
+Temperature: 0.8
+Precipitation: 0
+Humidity: 71.1
+**********************************
+Latitude: 58.88
+Longitude: 5.62861
+Temperature: 2.2
+Precipitation: 0
+Humidity: 69.9
+**********************************
+Latitude: 59.0017
+Longitude: 5.61528
+Temperature: 1.8
+Precipitation: 0
+Humidity: 70.8
+**********************************
+Latitude: 59.0633
+Longitude: 6.02778
+Temperature: 1.8
+Precipitation: 0
+Humidity: 63.7
+**********************************
+Latitude: 59.2172
+Longitude: 6.34083
+Temperature: -3.3
+Precipitation: 0
+Humidity: 70.5
+**********************************
+Latitude: 59.4683
+Longitude: 6.49972
+Temperature: -2.7
+Precipitation: 0
+Humidity: 67.1
+**********************************
+Latitude: 59.6875
+Longitude: 6.43722
+Temperature: -3.7
+Precipitation: 0.1
+Humidity: 68.3
+**********************************
+Latitude: 59.0622
+Longitude: 5.41167
+Temperature: 2.6
+Precipitation: 0
+Humidity: 66.6
+**********************************
+Latitude: 59.2003
+Longitude: 5.42306
+Temperature: 1.2
+Precipitation: 0
+Humidity: 67.1
+**********************************
+Latitude: 59.3617
+Longitude: 5.54278
+Temperature: 0.2
+Precipitation: 0
+Humidity: 64.9
+**********************************
+Latitude: 59.2564
+Longitude: 5.24917
+Temperature: 0.7
+Precipitation: 0
+Humidity: 71.8
+**********************************
+Latitude: 59.3072
+Longitude: 4.88611
+Temperature: 1
+Precipitation: 0
+Humidity: 73.8
+**********************************
+Latitude: 59.5456
+Longitude: 5.81806
+Temperature: -0.9
+Precipitation: 0
+Humidity: 81.9
+**********************************
+Latitude: 63.1103
+Longitude: 7.72778
+Temperature: -2.6
+Precipitation: 0
+Humidity: 67.1
+**********************************
+Latitude: 62.7564
+Longitude: 7.23861
+Temperature: -5.9
+Precipitation: 0
+Humidity: 53.5
+**********************************
+Latitude: 62.4778
+Longitude: 6.19028
+Temperature: -1.3
+Precipitation: 0
+Humidity: 61.5
+**********************************
+Latitude: 62.0606
+Longitude: 5.6975
+Temperature: -5.2
+Precipitation: 0
+Humidity: 44.4
+**********************************
+Latitude: 62.2583
+Longitude: 5.43139
+Temperature: -1.1
+Precipitation: 0
+Humidity: 58.2
+**********************************
+Latitude: 62.3556
+Longitude: 5.54444
+Temperature: -1.4
+Precipitation: 0
+Humidity: 60.8
+**********************************
+Latitude: 62.3564
+Longitude: 5.85389
+Temperature: -2.7
+Precipitation: 0
+Humidity: 60.7
+**********************************
+Latitude: 62.3642
+Longitude: 6.00139
+Temperature: -6.1
+Precipitation: 0
+Humidity: 59.8
+**********************************
+Latitude: 62.2003
+Longitude: 6.13222
+Temperature: -7.1
+Precipitation: 0
+Humidity: 33.2
+**********************************
+Latitude: 62.1914
+Longitude: 6.94889
+Temperature: -9.2
+Precipitation: 0
+Humidity: 45
+**********************************
+Latitude: 62.3756
+Longitude: 6.64417
+Temperature: -4.8
+Precipitation: 0
+Humidity: 43.2
+**********************************
+Latitude: 62.4247
+Longitude: 6.20611
+Temperature: -4.7
+Precipitation: 0
+Humidity: 60
+**********************************
+Latitude: 62.5625
+Longitude: 6.10194
+Temperature: -0.1
+Precipitation: 0
+Humidity: 57.7
+**********************************
+Latitude: 62.5844
+Longitude: 7.01833
+Temperature: -11.2
+Precipitation: 0
+Humidity: 44
+**********************************
+Latitude: 62.5047
+Longitude: 7.78194
+Temperature: -3.3
+Precipitation: 0
+Humidity: 48.8
+**********************************
+Latitude: 62.8286
+Longitude: 6.84583
+Temperature: -3
+Precipitation: 0
+Humidity: 68.5
+**********************************
+Latitude: 62.9972
+Longitude: 7.55528
+Temperature: -4.8
+Precipitation: 0
+Humidity: 50.7
+**********************************
+Latitude: 62.9164
+Longitude: 7.91917
+Temperature: -10.3
+Precipitation: 0
+Humidity: 55.9
+**********************************
+Latitude: 62.9536
+Longitude: 8.21806
+Temperature: -8.7
+Precipitation: 0
+Humidity: 68.4
+**********************************
+Latitude: 62.6128
+Longitude: 8.63417
+Temperature: -10.1
+Precipitation: 0
+Humidity: 68.2
+**********************************
+Latitude: 62.9475
+Longitude: 8.77
+Temperature: -11.4
+Precipitation: 0
+Humidity: 58.1
+**********************************
+Latitude: 63.4019
+Longitude: 8.02917
+Temperature: -8.1
+Precipitation: 0
+Humidity: 78.7
+**********************************
+Latitude: 63.2686
+Longitude: 8.60778
+Temperature: -5.6
+Precipitation: 0
+Humidity: 50
+**********************************
+Latitude: 62.0878
+Longitude: 6.01417
+Temperature: -7.5
+Precipitation: 0
+Humidity: 41.1
+**********************************
+Latitude: 62.3036
+Longitude: 7.25778
+Temperature: -4.3
+Precipitation: 0
+Humidity: 39.3
+**********************************
+Latitude: 62.9167
+Longitude: 7.2275
+Temperature: -4.3
+Precipitation: 0
+Humidity: 45.3
+**********************************
+Latitude: 67.2828
+Longitude: 14.375
+Temperature: -0.1
+Precipitation: 0
+Humidity: 63
+**********************************
+Latitude: 68.4206
+Longitude: 17.56
+Temperature: -11.2
+Precipitation: 0
+Humidity: 70.4
+**********************************
+Latitude: 65.0967
+Longitude: 12.5886
+Temperature: -4.8
+Precipitation: 0
+Humidity: 76.9
+**********************************
+Latitude: 65.3236
+Longitude: 12.1772
+Temperature: -0.7
+Precipitation: 0
+Humidity: 72
+**********************************
+Latitude: 65.4758
+Longitude: 12.4003
+Temperature: -3.5
+Precipitation: 0
+Humidity: 74.7
+**********************************
+Latitude: 65.6753
+Longitude: 11.9578
+Temperature: -2
+Precipitation: 0
+Humidity: 71.5
+**********************************
+Latitude: 65.6683
+Longitude: 12.5186
+Temperature: -7.3
+Precipitation: 0
+Humidity: 85.6
+**********************************
+Latitude: 65.9986
+Longitude: 12.2172
+Temperature: -1.1
+Precipitation: 0
+Humidity: 68.5
+**********************************
+Latitude: 65.9567
+Longitude: 12.5728
+Temperature: -6
+Precipitation: 0
+Humidity: 76.9
+**********************************
+Latitude: 66.1128
+Longitude: 13.1308
+Temperature: -3.6
+Precipitation: 0
+Humidity: 69.3
+**********************************
+Latitude: 65.7992
+Longitude: 13.2506
+Temperature: -12.9
+Precipitation: 0
+Humidity: 83.1
+**********************************
+Latitude: 65.4006
+Longitude: 13.5106
+Temperature: -9
+Precipitation: 0
+Humidity: 90.7
+**********************************
+Latitude: 65.5475
+Longitude: 14.1344
+Temperature: -3.7
+Precipitation: 0
+Humidity: 84.3
+**********************************
+Latitude: 66.0914
+Longitude: 12.5258
+Temperature: -3.4
+Precipitation: 0
+Humidity: 71.7
+**********************************
+Latitude: 66.2578
+Longitude: 13.035
+Temperature: -6.8
+Precipitation: 0
+Humidity: 72.1
+**********************************
+Latitude: 66.0542
+Longitude: 14.0306
+Temperature: -5.9
+Precipitation: 0
+Humidity: 77.4
+**********************************
+Latitude: 66.3719
+Longitude: 14.3428
+Temperature: -6
+Precipitation: 0
+Humidity: 81.1
+**********************************
+Latitude: 66.4319
+Longitude: 12.855
+Temperature: -4.3
+Precipitation: 0
+Humidity: 64.3
+**********************************
+Latitude: 66.5075
+Longitude: 12.0308
+Temperature: -0.1
+Precipitation: 0
+Humidity: 67.1
+**********************************
+Latitude: 66.5933
+Longitude: 13.3594
+Temperature: -5.7
+Precipitation: 0
+Humidity: 68.2
+**********************************
+Latitude: 66.7881
+Longitude: 13.6758
+Temperature: -6.9
+Precipitation: 0
+Humidity: 55.7
+**********************************
+Latitude: 67.0233
+Longitude: 14.0772
+Temperature: -3.8
+Precipitation: 0
+Humidity: 56.7
+**********************************
+Latitude: 66.9172
+Longitude: 14.6747
+Temperature: -7.7
+Precipitation: 0
+Humidity: 68.2
+**********************************
+Latitude: 66.92
+Longitude: 15.56
+Temperature: -6.1
+Precipitation: 0
+Humidity: 79.4
+**********************************
+Latitude: 67.2206
+Longitude: 15.8086
+Temperature: -11
+Precipitation: 0
+Humidity: 79.6
+**********************************
+Latitude: 67.2206
+Longitude: 15.8086
+Temperature: -11
+Precipitation: 0
+Humidity: 79.6
+**********************************
+Latitude: 67.7983
+Longitude: 15.1719
+Temperature: -5
+Precipitation: 0
+Humidity: 66.2
+**********************************
+Latitude: 68.4042
+Longitude: 15.5714
+Temperature: -5.4
+Precipitation: 0.1
+Humidity: 73.5
+**********************************
+Latitude: 68.5364
+Longitude: 16.9319
+Temperature: -5.6
+Precipitation: 0
+Humidity: 67.5
+**********************************
+Latitude: 67.52
+Longitude: 12.0989
+Temperature: 1.9
+Precipitation: 0.7
+Humidity: 77.2
+**********************************
+Latitude: 67.6731
+Longitude: 12.6692
+Temperature: 1.2
+Precipitation: 0.6
+Humidity: 77.2
+**********************************
+Latitude: 68.0792
+Longitude: 13.2744
+Temperature: -3.6
+Precipitation: 1.2
+Humidity: 85.4
+**********************************
+Latitude: 68.2214
+Longitude: 13.7844
+Temperature: -1.5
+Precipitation: 0.6
+Humidity: 80.4
+**********************************
+Latitude: 68.2781
+Longitude: 14.5208
+Temperature: -3.8
+Precipitation: 0.3
+Humidity: 79.5
+**********************************
+Latitude: 68.535
+Longitude: 14.825
+Temperature: -2.9
+Precipitation: 0.2
+Humidity: 79
+**********************************
+Latitude: 68.6953
+Longitude: 14.5794
+Temperature: -0.5
+Precipitation: 0.2
+Humidity: 81.9
+**********************************
+Latitude: 68.8883
+Longitude: 15.1833
+Temperature: -0.7
+Precipitation: 0.3
+Humidity: 81.1
+**********************************
+Latitude: 68.7086
+Longitude: 15.2808
+Temperature: -1
+Precipitation: 0.3
+Humidity: 78.9
+**********************************
+Latitude: 69.0944
+Longitude: 15.7644
+Temperature: -1.3
+Precipitation: 0
+Humidity: 78.3
+**********************************
+Latitude: 67.9253
+Longitude: 12.9589
+Temperature: -2
+Precipitation: 1.4
+Humidity: 90.5
+**********************************
+Latitude: 68.0758
+Longitude: 15.7822
+Temperature: -3.2
+Precipitation: 0
+Humidity: 60.8
+**********************************
+Latitude: 59.1264
+Longitude: 11.4828
+Temperature: -0.8
+Precipitation: 0.7
+Humidity: 95.8
+**********************************
+Latitude: 59.4592
+Longitude: 10.7008
+Temperature: -2.2
+Precipitation: 0.8
+Humidity: 89.6
+**********************************
+Latitude: 59.2858
+Longitude: 11.1119
+Temperature: -0.8
+Precipitation: 0.6
+Humidity: 92.5
+**********************************
+Latitude: 59.2053
+Longitude: 10.95
+Temperature: -1.1
+Precipitation: 0.8
+Humidity: 93.2
+**********************************
+Latitude: 59.7378
+Longitude: 10.205
+Temperature: -3.2
+Precipitation: 0.9
+Humidity: 87.4
+**********************************
+Latitude: 59.6694
+Longitude: 9.65167
+Temperature: -4.8
+Precipitation: 0.9
+Humidity: 87.1
+**********************************
+Latitude: 60.2053
+Longitude: 10.1525
+Temperature: -5.9
+Precipitation: 0.2
+Humidity: 86
+**********************************
+Latitude: 59.0564
+Longitude: 11.0222
+Temperature: -0.6
+Precipitation: 0.8
+Humidity: 95.6
+**********************************
+Latitude: 59.2231
+Longitude: 11.6956
+Temperature: -1.2
+Precipitation: 0.6
+Humidity: 96.7
+**********************************
+Latitude: 59.5111
+Longitude: 11.6283
+Temperature: -1.3
+Precipitation: 0.3
+Humidity: 95.2
+**********************************
+Latitude: 59.5822
+Longitude: 11.1703
+Temperature: -2.1
+Precipitation: 0.3
+Humidity: 93.7
+**********************************
+Latitude: 59.4806
+Longitude: 11.1444
+Temperature: -2.3
+Precipitation: 0.4
+Humidity: 94.5
+**********************************
+Latitude: 59.3731
+Longitude: 11.4203
+Temperature: -1.1
+Precipitation: 0.5
+Humidity: 94.7
+**********************************
+Latitude: 59.3489
+Longitude: 10.855
+Temperature: -1.3
+Precipitation: 0.7
+Humidity: 91.7
+**********************************
+Latitude: 59.4725
+Longitude: 10.9169
+Temperature: -1.7
+Precipitation: 0.6
+Humidity: 90.5
+**********************************
+Latitude: 59.575
+Longitude: 10.7319
+Temperature: -2.5
+Precipitation: 0.7
+Humidity: 90.7
+**********************************
+Latitude: 59.75
+Longitude: 10.8667
+Temperature: -2.6
+Precipitation: 0.2
+Humidity: 90.2
+**********************************
+Latitude: 59.6603
+Longitude: 10.7836
+Temperature: -2.2
+Precipitation: 0.5
+Humidity: 91.5
+**********************************
+Latitude: 59.6989
+Longitude: 10.6553
+Temperature: -2.6
+Precipitation: 0.5
+Humidity: 88.7
+**********************************
+Latitude: 59.8086
+Longitude: 10.6556
+Temperature: -2.8
+Precipitation: 0.3
+Humidity: 88.6
+**********************************
+Latitude: 59.9383
+Longitude: 10.5067
+Temperature: -2.8
+Precipitation: 0.4
+Humidity: 87
+**********************************
+Latitude: 59.8353
+Longitude: 10.435
+Temperature: -2.5
+Precipitation: 0.6
+Humidity: 89.8
+**********************************
+Latitude: 59.84
+Longitude: 11.5683
+Temperature: -3
+Precipitation: 0
+Humidity: 95.7
+**********************************
+Latitude: 59.8892
+Longitude: 11.0753
+Temperature: -4.4
+Precipitation: 0.1
+Humidity: 94.8
+**********************************
+Latitude: 59.7742
+Longitude: 11.1019
+Temperature: -2.8
+Precipitation: 0.1
+Humidity: 92.8
+**********************************
+Latitude: 59.8989
+Longitude: 10.9642
+Temperature: -3.8
+Precipitation: 0.1
+Humidity: 94.5
+**********************************
+Latitude: 59.95
+Longitude: 11.0833
+Temperature: -3
+Precipitation: 0.1
+Humidity: 91.9
+**********************************
+Latitude: 60.0731
+Longitude: 10.8722
+Temperature: -3.7
+Precipitation: 0.2
+Humidity: 93.4
+**********************************
+Latitude: 60.0825
+Longitude: 11.0144
+Temperature: -3.4
+Precipitation: 0.1
+Humidity: 94.4
+**********************************
+Latitude: 60.1708
+Longitude: 11.1881
+Temperature: -3.6
+Precipitation: 0.2
+Humidity: 94.6
+**********************************
+Latitude: 60.1308
+Longitude: 11.4892
+Temperature: -2.9
+Precipitation: 0
+Humidity: 93.8
+**********************************
+Latitude: 60.35
+Longitude: 11.25
+Temperature: -3.3
+Precipitation: 0.2
+Humidity: 90.8
+**********************************
+Latitude: 60.2456
+Longitude: 10.9528
+Temperature: -4.9
+Precipitation: 0.2
+Humidity: 94
+**********************************
+Latitude: 60.4158
+Longitude: 11.0086
+Temperature: -4.5
+Precipitation: 0.3
+Humidity: 93.2
+**********************************
+Latitude: 60.0478
+Longitude: 10.2911
+Temperature: -4.7
+Precipitation: 0.4
+Humidity: 90
+**********************************
+Latitude: 60.4086
+Longitude: 9.48417
+Temperature: -6.6
+Precipitation: 0.3
+Humidity: 87.7
+**********************************
+Latitude: 60.5583
+Longitude: 9.10111
+Temperature: -9.2
+Precipitation: 0.2
+Humidity: 84.6
+**********************************
+Latitude: 60.7503
+Longitude: 8.98472
+Temperature: -7.9
+Precipitation: 0
+Humidity: 86.7
+**********************************
+Latitude: 60.9058
+Longitude: 8.51472
+Temperature: -10.9
+Precipitation: 0
+Humidity: 92.1
+**********************************
+Latitude: 60.6303
+Longitude: 8.56111
+Temperature: -8.9
+Precipitation: 0.3
+Humidity: 88.1
+**********************************
+Latitude: 60.5717
+Longitude: 8.07167
+Temperature: -12.4
+Precipitation: 0.4
+Humidity: 92.5
+**********************************
+Latitude: 60.0525
+Longitude: 9.60111
+Temperature: -4.6
+Precipitation: 0.6
+Humidity: 91.3
+**********************************
+Latitude: 60.195
+Longitude: 9.66444
+Temperature: -6.5
+Precipitation: 0.4
+Humidity: 88.3
+**********************************
+Latitude: 59.9575
+Longitude: 9.98278
+Temperature: -3.3
+Precipitation: 0.6
+Humidity: 89.3
+**********************************
+Latitude: 59.7719
+Longitude: 9.83611
+Temperature: -4.4
+Precipitation: 0.9
+Humidity: 84.6
+**********************************
+Latitude: 59.7939
+Longitude: 10.2661
+Temperature: -2.7
+Precipitation: 0.8
+Humidity: 87.7
+**********************************
+Latitude: 59.8478
+Longitude: 9.48222
+Temperature: -6.1
+Precipitation: 0.8
+Humidity: 92.8
+**********************************
+Latitude: 60.0172
+Longitude: 9.23389
+Temperature: -6.5
+Precipitation: 0.6
+Humidity: 85
+**********************************
+Latitude: 60.3072
+Longitude: 8.80556
+Temperature: -9.5
+Precipitation: 0.5
+Humidity: 90
+**********************************
+Latitude: 60.2711
+Longitude: 10.4019
+Temperature: -3.4
+Precipitation: 0.2
+Humidity: 87.6
+**********************************
+Latitude: 60.2528
+Longitude: 10.6672
+Temperature: -5.7
+Precipitation: 0.2
+Humidity: 92.8
+**********************************
+Latitude: 60.2431
+Longitude: 12.2256
+Temperature: -3.1
+Precipitation: 0
+Humidity: 96.8
+**********************************
+Latitude: 60.7992
+Longitude: 11.0561
+Temperature: -5.1
+Precipitation: 0.3
+Humidity: 94.8
+**********************************
+Latitude: 61.1167
+Longitude: 10.4667
+Temperature: -7.4
+Precipitation: 0.2
+Humidity: 88.7
+**********************************
+Latitude: 60.7925
+Longitude: 10.695
+Temperature: -4.1
+Precipitation: 0.2
+Humidity: 91.1
+**********************************
+Latitude: 61.0242
+Longitude: 10.8019
+Temperature: -6.2
+Precipitation: 0.3
+Humidity: 91.9
+**********************************
+Latitude: 60.8253
+Longitude: 11.3908
+Temperature: -5.4
+Precipitation: 0.2
+Humidity: 90.3
+**********************************
+Latitude: 60.7158
+Longitude: 11.1903
+Temperature: -5.7
+Precipitation: 0.3
+Humidity: 94.5
+**********************************
+Latitude: 60.4422
+Longitude: 11.5681
+Temperature: -4
+Precipitation: 0.2
+Humidity: 95.1
+**********************************
+Latitude: 60.2367
+Longitude: 11.7456
+Temperature: -4.3
+Precipitation: 0
+Humidity: 94
+**********************************
+Latitude: 59.9981
+Longitude: 12.0606
+Temperature: -3.4
+Precipitation: 0
+Humidity: 96.2
+**********************************
+Latitude: 60.4564
+Longitude: 12.0583
+Temperature: -4.7
+Precipitation: 0
+Humidity: 93.8
+**********************************
+Latitude: 60.6536
+Longitude: 12.1531
+Temperature: -4.2
+Precipitation: 0
+Humidity: 94.7
+**********************************
+Latitude: 60.7533
+Longitude: 11.8975
+Temperature: -4
+Precipitation: 0
+Humidity: 92
+**********************************
+Latitude: 60.9275
+Longitude: 11.7153
+Temperature: -5.3
+Precipitation: 0.1
+Humidity: 94.5
+**********************************
+Latitude: 61.31
+Longitude: 12.315
+Temperature: -4.8
+Precipitation: 0.2
+Humidity: 92.6
+**********************************
+Latitude: 61.1464
+Longitude: 11.4158
+Temperature: -7.9
+Precipitation: 0.2
+Humidity: 93.4
+**********************************
+Latitude: 61.635
+Longitude: 10.8742
+Temperature: -9.4
+Precipitation: 0.1
+Humidity: 89.3
+**********************************
+Latitude: 61.8594
+Longitude: 11.1761
+Temperature: -7.1
+Precipitation: 0
+Humidity: 90.9
+**********************************
+Latitude: 61.8833
+Longitude: 12.0333
+Temperature: -6.4
+Precipitation: 0
+Humidity: 93
+**********************************
+Latitude: 62.4014
+Longitude: 11.0222
+Temperature: -10.5
+Precipitation: 0
+Humidity: 88.1
+**********************************
+Latitude: 62.2753
+Longitude: 10.8325
+Temperature: -11.8
+Precipitation: 0
+Humidity: 89.3
+**********************************
+Latitude: 62.0717
+Longitude: 10.5075
+Temperature: -10.2
+Precipitation: 0
+Humidity: 91.8
+**********************************
+Latitude: 62.1992
+Longitude: 10.0353
+Temperature: -10
+Precipitation: 0
+Humidity: 89.9
+**********************************
+Latitude: 62.4761
+Longitude: 11.2431
+Temperature: -7.1
+Precipitation: 0
+Humidity: 88.7
+**********************************
+Latitude: 62.035
+Longitude: 9.4675
+Temperature: -12.2
+Precipitation: 0
+Humidity: 93.3
+**********************************
+Latitude: 62.2106
+Longitude: 8.64472
+Temperature: -12.9
+Precipitation: 0
+Humidity: 86.4
+**********************************
+Latitude: 61.9361
+Longitude: 7.96028
+Temperature: -17.4
+Precipitation: 0
+Humidity: 80
+**********************************
+Latitude: 61.8108
+Longitude: 8.63917
+Temperature: -10.8
+Precipitation: 0
+Humidity: 70
+**********************************
+Latitude: 61.8486
+Longitude: 9.12111
+Temperature: -8.8
+Precipitation: 0
+Humidity: 85.5
+**********************************
+Latitude: 61.6589
+Longitude: 9.72778
+Temperature: -10.5
+Precipitation: 0
+Humidity: 87.4
+**********************************
+Latitude: 61.8169
+Longitude: 9.57333
+Temperature: -9.1
+Precipitation: 0
+Humidity: 86.2
+**********************************
+Latitude: 61.5689
+Longitude: 9.92333
+Temperature: -10.3
+Precipitation: 0
+Humidity: 78.3
+**********************************
+Latitude: 61.5356
+Longitude: 10.3081
+Temperature: -8.3
+Precipitation: 0
+Humidity: 91.6
+**********************************
+Latitude: 61.2653
+Longitude: 10.4133
+Temperature: -9.2
+Precipitation: 0.2
+Humidity: 85.8
+**********************************
+Latitude: 61.2767
+Longitude: 9.9225
+Temperature: -8
+Precipitation: 0
+Humidity: 85.8
+**********************************
+Latitude: 60.6133
+Longitude: 10.9161
+Temperature: -5.8
+Precipitation: 0.2
+Humidity: 95.1
+**********************************
+Latitude: 60.6528
+Longitude: 10.5961
+Temperature: -6.5
+Precipitation: 0.2
+Humidity: 91.8
+**********************************
+Latitude: 60.4411
+Longitude: 10.4956
+Temperature: -6
+Precipitation: 0.2
+Humidity: 88.1
+**********************************
+Latitude: 60.6769
+Longitude: 10.2789
+Temperature: -6.4
+Precipitation: 0.3
+Humidity: 88.2
+**********************************
+Latitude: 60.9319
+Longitude: 10.0172
+Temperature: -6.3
+Precipitation: 0.2
+Humidity: 89.6
+**********************************
+Latitude: 60.6964
+Longitude: 9.65889
+Temperature: -7.4
+Precipitation: 0.1
+Humidity: 89.1
+**********************************
+Latitude: 60.9672
+Longitude: 9.65361
+Temperature: -8.4
+Precipitation: 0
+Humidity: 90.3
+**********************************
+Latitude: 60.9597
+Longitude: 9.26417
+Temperature: -7.9
+Precipitation: 0
+Humidity: 86
+**********************************
+Latitude: 61.0606
+Longitude: 8.91722
+Temperature: -8.7
+Precipitation: 0
+Humidity: 89.5
+**********************************
+Latitude: 61.2364
+Longitude: 9.14361
+Temperature: -10.6
+Precipitation: 0
+Humidity: 90.1
+**********************************
+Latitude: 61.2144
+Longitude: 8.50417
+Temperature: -9.6
+Precipitation: 0
+Humidity: 93.7
+**********************************
+Latitude: 59.4208
+Longitude: 10.4328
+Temperature: -1.1
+Precipitation: 1
+Humidity: 92.3
+**********************************
+Latitude: 59.4953
+Longitude: 10.2486
+Temperature: -3
+Precipitation: 1
+Humidity: 92.2
+**********************************
+Latitude: 59.2981
+Longitude: 10.4236
+Temperature: -1.2
+Precipitation: 1
+Humidity: 93.6
+**********************************
+Latitude: 59.1306
+Longitude: 10.2167
+Temperature: -2
+Precipitation: 1
+Humidity: 93.9
+**********************************
+Latitude: 59.0811
+Longitude: 10.0164
+Temperature: -2.4
+Precipitation: 0.9
+Humidity: 92.2
+**********************************
+Latitude: 59.1156
+Longitude: 9.71
+Temperature: -2.1
+Precipitation: 0.7
+Humidity: 87.5
+**********************************
+Latitude: 59.2081
+Longitude: 9.55278
+Temperature: -2.1
+Precipitation: 0.7
+Humidity: 83.1
+**********************************
+Latitude: 59.6294
+Longitude: 9.19139
+Temperature: -4.9
+Precipitation: 0.8
+Humidity: 81.8
+**********************************
+Latitude: 59.1667
+Longitude: 10.4
+Temperature: -0.9
+Precipitation: 1
+Humidity: 93.7
+**********************************
+Latitude: 59.2975
+Longitude: 9.70639
+Temperature: -2.7
+Precipitation: 0.8
+Humidity: 85.2
+**********************************
+Latitude: 59.0197
+Longitude: 9.56083
+Temperature: -2.8
+Precipitation: 0.8
+Humidity: 90.7
+**********************************
+Latitude: 58.8869
+Longitude: 9.34694
+Temperature: -2.2
+Precipitation: 1.3
+Humidity: 89.3
+**********************************
+Latitude: 59.1233
+Longitude: 8.98194
+Temperature: -2.9
+Precipitation: 1
+Humidity: 84.7
+**********************************
+Latitude: 59.2847
+Longitude: 9.12389
+Temperature: -4.1
+Precipitation: 0.9
+Humidity: 88.1
+**********************************
+Latitude: 59.45
+Longitude: 9.1
+Temperature: -3.4
+Precipitation: 0.9
+Humidity: 78.5
+**********************************
+Latitude: 60.0092
+Longitude: 8.55944
+Temperature: -10.3
+Precipitation: 0.6
+Humidity: 95.5
+**********************************
+Latitude: 59.665
+Longitude: 8.72611
+Temperature: -7.1
+Precipitation: 0.8
+Humidity: 92.4
+**********************************
+Latitude: 59.5133
+Longitude: 8.64889
+Temperature: -2.7
+Precipitation: 0.9
+Humidity: 73
+**********************************
+Latitude: 59.3983
+Longitude: 8.495
+Temperature: -2.4
+Precipitation: 0.9
+Humidity: 82.9
+**********************************
+Latitude: 59.0764
+Longitude: 8.51833
+Temperature: -3.3
+Precipitation: 0.8
+Humidity: 85.5
+**********************************
+Latitude: 59.1658
+Longitude: 8.01972
+Temperature: -4.4
+Precipitation: 0.8
+Humidity: 85.8
+**********************************
+Latitude: 59.4172
+Longitude: 7.97861
+Temperature: -6.7
+Precipitation: 0.8
+Humidity: 88.4
+**********************************
+Latitude: 59.8014
+Longitude: 7.77917
+Temperature: -9.7
+Precipitation: 0.4
+Humidity: 86.7
+**********************************
+Latitude: 58.7264
+Longitude: 9.19444
+Temperature: -2
+Precipitation: 1.7
+Humidity: 91.9
+**********************************
+Latitude: 58.3519
+Longitude: 8.54444
+Temperature: -1.9
+Precipitation: 1.5
+Humidity: 93.1
+**********************************
+Latitude: 58.4608
+Longitude: 8.76639
+Temperature: -2
+Precipitation: 1.4
+Humidity: 92
+**********************************
+Latitude: 58.1472
+Longitude: 7.99722
+Temperature: -1
+Precipitation: 1.1
+Humidity: 90.1
+**********************************
+Latitude: 58.1042
+Longitude: 7.28889
+Temperature: -2.5
+Precipitation: 0.6
+Humidity: 86.6
+**********************************
+Latitude: 58.0828
+Longitude: 6.75278
+Temperature: -0.4
+Precipitation: 0.4
+Humidity: 83.3
+**********************************
+Latitude: 58.3272
+Longitude: 6.66667
+Temperature: -0.9
+Precipitation: 0.2
+Humidity: 79.6
+**********************************
+Latitude: 58.8925
+Longitude: 8.95667
+Temperature: -3.2
+Precipitation: 1
+Humidity: 89.8
+**********************************
+Latitude: 58.7756
+Longitude: 8.83222
+Temperature: -3.6
+Precipitation: 1
+Humidity: 88.5
+**********************************
+Latitude: 58.6239
+Longitude: 8.92778
+Temperature: -2.3
+Precipitation: 1.8
+Humidity: 90.7
+**********************************
+Latitude: 58.5831
+Longitude: 8.57222
+Temperature: -3.7
+Precipitation: 1.3
+Humidity: 90.7
+**********************************
+Latitude: 58.2469
+Longitude: 8.31694
+Temperature: -1.6
+Precipitation: 1.2
+Humidity: 93.2
+**********************************
+Latitude: 58.4494
+Longitude: 8.23333
+Temperature: -4
+Precipitation: 1.2
+Humidity: 91.5
+**********************************
+Latitude: 58.7981
+Longitude: 8.36917
+Temperature: -5.6
+Precipitation: 0.7
+Humidity: 90.8
+**********************************
+Latitude: 58.4411
+Longitude: 7.95583
+Temperature: -3.8
+Precipitation: 0.7
+Humidity: 87.9
+**********************************
+Latitude: 58.5847
+Longitude: 7.77056
+Temperature: -2.8
+Precipitation: 0.4
+Humidity: 81.9
+**********************************
+Latitude: 58.9242
+Longitude: 7.76472
+Temperature: -4.2
+Precipitation: 0.6
+Humidity: 80.9
+**********************************
+Latitude: 59.2125
+Longitude: 7.53583
+Temperature: -3.5
+Precipitation: 0.6
+Humidity: 81.8
+**********************************
+Latitude: 59.4431
+Longitude: 7.255
+Temperature: -9.5
+Precipitation: 0.3
+Humidity: 92.5
+**********************************
+Latitude: 58.3106
+Longitude: 7.85694
+Temperature: -3.3
+Precipitation: 0.9
+Humidity: 89
+**********************************
+Latitude: 58.7019
+Longitude: 7.39361
+Temperature: -4.8
+Precipitation: 0.5
+Humidity: 89.6
+**********************************
+Latitude: 58.1692
+Longitude: 7.05583
+Temperature: -1.5
+Precipitation: 0.4
+Humidity: 82.6
+**********************************
+Latitude: 58.4567
+Longitude: 7.21972
+Temperature: -1.8
+Precipitation: 0.4
+Humidity: 85.3
+**********************************
+Latitude: 58.3381
+Longitude: 7.02306
+Temperature: -0.9
+Precipitation: 0.3
+Humidity: 82.4
+**********************************
+Latitude: 58.8619
+Longitude: 6.81333
+Temperature: -4.7
+Precipitation: 0.2
+Humidity: 79.2
+**********************************
+Latitude: 60.3894
+Longitude: 5.33
+Temperature: 0.2
+Precipitation: 0
+Humidity: 53.5
+**********************************
+Latitude: 61.5997
+Longitude: 5.03278
+Temperature: 1.9
+Precipitation: 0
+Humidity: 44.6
+**********************************
+Latitude: 59.6639
+Longitude: 5.93333
+Temperature: 1.3
+Precipitation: 0
+Humidity: 62.9
+**********************************
+Latitude: 59.5736
+Longitude: 5.36333
+Temperature: 0
+Precipitation: 0
+Humidity: 76.7
+**********************************
+Latitude: 59.7794
+Longitude: 5.21833
+Temperature: 0
+Precipitation: 0
+Humidity: 68.8
+**********************************
+Latitude: 59.8081
+Longitude: 5.46639
+Temperature: 0.1
+Precipitation: 0
+Humidity: 70.2
+**********************************
+Latitude: 59.9189
+Longitude: 5.37139
+Temperature: -1.6
+Precipitation: 0
+Humidity: 73.6
+**********************************
+Latitude: 59.9983
+Longitude: 5.57722
+Temperature: -1.6
+Precipitation: 0
+Humidity: 62.2
+**********************************
+Latitude: 59.9281
+Longitude: 6.03694
+Temperature: -5.2
+Precipitation: 0
+Humidity: 65.5
+**********************************
+Latitude: 60.3117
+Longitude: 6.81472
+Temperature: -11.6
+Precipitation: 0.3
+Humidity: 82.4
+**********************************
+Latitude: 60.435
+Longitude: 7.27722
+Temperature: -6.2
+Precipitation: 0.4
+Humidity: 75.4
+**********************************
+Latitude: 60.6211
+Longitude: 7.08028
+Temperature: -4.9
+Precipitation: 0.3
+Humidity: 72.6
+**********************************
+Latitude: 60.7025
+Longitude: 6.42306
+Temperature: -11.3
+Precipitation: 0
+Humidity: 75.5
+**********************************
+Latitude: 60.37
+Longitude: 6.14389
+Temperature: 1.1
+Precipitation: 0
+Humidity: 62.5
+**********************************
+Latitude: 60.4028
+Longitude: 5.80556
+Temperature: -1
+Precipitation: 0
+Humidity: 54.7
+**********************************
+Latitude: 60.1956
+Longitude: 5.62222
+Temperature: 0.9
+Precipitation: 0
+Humidity: 49.6
+**********************************
+Latitude: 60.0378
+Longitude: 5.26833
+Temperature: 0.5
+Precipitation: 0
+Humidity: 59.8
+**********************************
+Latitude: 60.6108
+Longitude: 4.82472
+Temperature: 1.2
+Precipitation: 0
+Humidity: 56.5
+**********************************
+Latitude: 60.4714
+Longitude: 5.16056
+Temperature: 0.2
+Precipitation: 0
+Humidity: 57.5
+**********************************
+Latitude: 60.6069
+Longitude: 5.81611
+Temperature: -3.8
+Precipitation: 0
+Humidity: 63.8
+**********************************
+Latitude: 60.8806
+Longitude: 5.92528
+Temperature: -13.2
+Precipitation: 0
+Humidity: 74.6
+**********************************
+Latitude: 60.5181
+Longitude: 5.54139
+Temperature: -0.4
+Precipitation: 0
+Humidity: 55
+**********************************
+Latitude: 60.6667
+Longitude: 5.33333
+Temperature: 0.3
+Precipitation: 0
+Humidity: 49.8
+**********************************
+Latitude: 60.7711
+Longitude: 4.92611
+Temperature: -0.6
+Precipitation: 0
+Humidity: 65.8
+**********************************
+Latitude: 60.7689
+Longitude: 4.73056
+Temperature: 1.5
+Precipitation: 0
+Humidity: 52.3
+**********************************
+Latitude: 60.8383
+Longitude: 5.44861
+Temperature: -4.6
+Precipitation: 0
+Humidity: 63.1
+**********************************
+Latitude: 61.0242
+Longitude: 5.11944
+Temperature: -3.1
+Precipitation: 0
+Humidity: 50.2
+**********************************
+Latitude: 61.1308
+Longitude: 4.94778
+Temperature: 0
+Precipitation: 0
+Humidity: 62.5
+**********************************
+Latitude: 61.1708
+Longitude: 5.29306
+Temperature: -0.8
+Precipitation: 0
+Humidity: 51
+**********************************
+Latitude: 61.1881
+Longitude: 5.89556
+Temperature: -4.7
+Precipitation: 0
+Humidity: 53.7
+**********************************
+Latitude: 61.0569
+Longitude: 6.57806
+Temperature: -6.8
+Precipitation: 0
+Humidity: 60.9
+**********************************
+Latitude: 61.2422
+Longitude: 7.055
+Temperature: -7.6
+Precipitation: 0
+Humidity: 55.1
+**********************************
+Latitude: 60.8681
+Longitude: 7.24333
+Temperature: -6.6
+Precipitation: 0
+Humidity: 68.3
+**********************************
+Latitude: 61.0511
+Longitude: 7.59778
+Temperature: -1
+Precipitation: 0
+Humidity: 60.6
+**********************************
+Latitude: 61.2914
+Longitude: 7.79806
+Temperature: -8.2
+Precipitation: 0
+Humidity: 65.8
+**********************************
+Latitude: 61.4939
+Longitude: 7.32944
+Temperature: -15.3
+Precipitation: 0
+Humidity: 69.6
+**********************************
+Latitude: 61.4058
+Longitude: 5.24222
+Temperature: -3.2
+Precipitation: 0
+Humidity: 52.4
+**********************************
+Latitude: 61.3061
+Longitude: 5.46333
+Temperature: -2.6
+Precipitation: 0
+Humidity: 48.3
+**********************************
+Latitude: 61.4522
+Longitude: 5.85722
+Temperature: -3.7
+Precipitation: 0
+Humidity: 53
+**********************************
+Latitude: 61.8086
+Longitude: 5.42083
+Temperature: -3.7
+Precipitation: 0
+Humidity: 52.7
+**********************************
+Latitude: 61.9114
+Longitude: 6.03722
+Temperature: -1.4
+Precipitation: 0
+Humidity: 43.6
+**********************************
+Latitude: 61.7439
+Longitude: 6.17056
+Temperature: -5.5
+Precipitation: 0
+Humidity: 46.7
+**********************************
+Latitude: 61.8386
+Longitude: 6.86278
+Temperature: -11.8
+Precipitation: 0
+Humidity: 45.1
+**********************************
+Latitude: 63.4297
+Longitude: 10.3933
+Temperature: -9
+Precipitation: 0
+Humidity: 77.2
+**********************************
+Latitude: 64.0581
+Longitude: 11.7189
+Temperature: -4.4
+Precipitation: 0
+Humidity: 75.2
+**********************************
+Latitude: 64.4939
+Longitude: 11.5117
+Temperature: -6.2
+Precipitation: 0
+Humidity: 81.3
+**********************************
+Latitude: 63.7256
+Longitude: 8.74417
+Temperature: -7.7
+Precipitation: 0
+Humidity: 82.3
+**********************************
+Latitude: 64.2978
+Longitude: 10.5133
+Temperature: -3.5
+Precipitation: 0
+Humidity: 78.1
+**********************************
+Latitude: 62.5736
+Longitude: 9.60889
+Temperature: -5.2
+Precipitation: 0
+Humidity: 60.8
+**********************************
+Latitude: 62.8308
+Longitude: 9.87444
+Temperature: -5.1
+Precipitation: 0
+Humidity: 67.3
+**********************************
+Latitude: 62.5742
+Longitude: 11.3831
+Temperature: -7.1
+Precipitation: 0
+Humidity: 92.5
+**********************************
+Latitude: 62.8686
+Longitude: 11.2772
+Temperature: -7.2
+Precipitation: 0
+Humidity: 89.6
+**********************************
+Latitude: 62.9211
+Longitude: 10.5006
+Temperature: -5.7
+Precipitation: 0
+Humidity: 75.7
+**********************************
+Latitude: 63.1764
+Longitude: 10.3036
+Temperature: -5.9
+Precipitation: 0
+Humidity: 80.8
+**********************************
+Latitude: 63.2814
+Longitude: 10.0553
+Temperature: -7.9
+Precipitation: 0
+Humidity: 74.6
+**********************************
+Latitude: 63.3728
+Longitude: 10.7508
+Temperature: -3.2
+Precipitation: 0
+Humidity: 71.1
+**********************************
+Latitude: 63.1983
+Longitude: 11.1403
+Temperature: -1.2
+Precipitation: 0
+Humidity: 81.6
+**********************************
+Latitude: 63.0183
+Longitude: 11.815
+Temperature: -6.8
+Precipitation: 0
+Humidity: 86.6
+**********************************
+Latitude: 63.4381
+Longitude: 11.8494
+Temperature: -6
+Precipitation: 0
+Humidity: 79.5
+**********************************
+Latitude: 63.475
+Longitude: 11.1708
+Temperature: -3
+Precipitation: 0
+Humidity: 84.6
+**********************************
+Latitude: 63.6039
+Longitude: 10.7744
+Temperature: -5.9
+Precipitation: 0
+Humidity: 82.4
+**********************************
+Latitude: 63.6547
+Longitude: 11.2603
+Temperature: -3.6
+Precipitation: 0
+Humidity: 74.7
+**********************************
+Latitude: 63.7981
+Longitude: 11.9492
+Temperature: -6.3
+Precipitation: 0
+Humidity: 79.2
+**********************************
+Latitude: 64.2244
+Longitude: 12.6253
+Temperature: -5.6
+Precipitation: 0
+Humidity: 83.2
+**********************************
+Latitude: 64.3761
+Longitude: 13.6097
+Temperature: -7.5
+Precipitation: 0
+Humidity: 92
+**********************************
+Latitude: 64.9208
+Longitude: 13.6508
+Temperature: -8.4
+Precipitation: 0
+Humidity: 89.6
+**********************************
+Latitude: 64.8719
+Longitude: 12.9764
+Temperature: -16
+Precipitation: 0
+Humidity: 95.1
+**********************************
+Latitude: 64.5314
+Longitude: 12.62
+Temperature: -8.2
+Precipitation: 0
+Humidity: 90
+**********************************
+Latitude: 64.7242
+Longitude: 12.3339
+Temperature: -5.6
+Precipitation: 0
+Humidity: 84.1
+**********************************
+Latitude: 64.5078
+Longitude: 11.8939
+Temperature: -6
+Precipitation: 0
+Humidity: 82
+**********************************
+Latitude: 64.4197
+Longitude: 10.9078
+Temperature: -5.7
+Precipitation: 0
+Humidity: 74.8
+**********************************
+Latitude: 65.0881
+Longitude: 11.6169
+Temperature: -4.3
+Precipitation: 0
+Humidity: 76.6
+**********************************
+Latitude: 63.8994
+Longitude: 11.22
+Temperature: -8.5
+Precipitation: 0
+Humidity: 86.6
+**********************************
+Latitude: 63.6439
+Longitude: 10.1869
+Temperature: -8.7
+Precipitation: 0
+Humidity: 83.2
+**********************************
+Latitude: 63.2906
+Longitude: 9.08917
+Temperature: -11.6
+Precipitation: 0
+Humidity: 56
+**********************************
+Latitude: 63.5472
+Longitude: 8.85472
+Temperature: -8.3
+Precipitation: 0
+Humidity: 75.2
+**********************************
+Latitude: 63.7833
+Longitude: 9.8
+Temperature: -5.4
+Precipitation: 0
+Humidity: 72.7
+**********************************
+Latitude: 63.9778
+Longitude: 10.3856
+Temperature: -2.5
+Precipitation: 0
+Humidity: 76.9
+**********************************
+Latitude: 63.3067
+Longitude: 9.85028
+Temperature: -13.6
+Precipitation: 0
+Humidity: 72.8
+**********************************
+Latitude: 64.8392
+Longitude: 11.4608
+Temperature: -2.4
+Precipitation: 0
+Humidity: 78.4
+**********************************
+Latitude: 63.0422
+Longitude: 9.28944
+Temperature: -11.1
+Precipitation: 0
+Humidity: 65.4
+**********************************
+Latitude: 69.6828
+Longitude: 18.9428
+Temperature: -2
+Precipitation: 0
+Humidity: 63.2
+**********************************
+Latitude: 68.8
+Longitude: 16.5458
+Temperature: -0.8
+Precipitation: 0
+Humidity: 68.1
+**********************************
+Latitude: 69.9767
+Longitude: 23.2958
+Temperature: -8.4
+Precipitation: 0
+Humidity: 73.9
+**********************************
+Latitude: 70.3706
+Longitude: 31.0242
+Temperature: -7.1
+Precipitation: 0
+Humidity: 83.8
+**********************************
+Latitude: 70.0733
+Longitude: 29.7497
+Temperature: -8.2
+Precipitation: 0
+Humidity: 83.5
+**********************************
+Latitude: 70.6625
+Longitude: 23.6833
+Temperature: -4.7
+Precipitation: 0
+Humidity: 76.8
+**********************************
+Latitude: 68.7019
+Longitude: 16.1469
+Temperature: -6.9
+Precipitation: 0.1
+Humidity: 85.7
+**********************************
+Latitude: 68.4844
+Longitude: 16.2925
+Temperature: -6.7
+Precipitation: 0
+Humidity: 82.8
+**********************************
+Latitude: 68.8294
+Longitude: 17.2458
+Temperature: -3.3
+Precipitation: 0
+Humidity: 63.1
+**********************************
+Latitude: 68.69
+Longitude: 17.5417
+Temperature: -1.6
+Precipitation: 0
+Humidity: 52.9
+**********************************
+Latitude: 68.6578
+Longitude: 17.5836
+Temperature: -6.7
+Precipitation: 0
+Humidity: 64.7
+**********************************
+Latitude: 68.8642
+Longitude: 18.3528
+Temperature: -3.4
+Precipitation: 0
+Humidity: 59.9
+**********************************
+Latitude: 68.9006
+Longitude: 17.8931
+Temperature: -4.5
+Precipitation: 0
+Humidity: 60.5
+**********************************
+Latitude: 68.975
+Longitude: 19.0644
+Temperature: -6.5
+Precipitation: 0
+Humidity: 66
+**********************************
+Latitude: 69.0919
+Longitude: 18.1936
+Temperature: -3.9
+Precipitation: 0
+Humidity: 57.8
+**********************************
+Latitude: 69.0669
+Longitude: 17.7414
+Temperature: -3.1
+Precipitation: 0
+Humidity: 55.3
+**********************************
+Latitude: 69.0806
+Longitude: 16.8031
+Temperature: -0.9
+Precipitation: 0
+Humidity: 69.3
+**********************************
+Latitude: 69.3047
+Longitude: 19.2036
+Temperature: -11.1
+Precipitation: 0
+Humidity: 78.1
+**********************************
+Latitude: 70.13
+Longitude: 19.4308
+Temperature: -4.5
+Precipitation: 0
+Humidity: 65.8
+**********************************
+Latitude: 69.6903
+Longitude: 20.0817
+Temperature: -23.8
+Precipitation: 0
+Humidity: 93.5
+**********************************
+Latitude: 69.2786
+Longitude: 20.2867
+Temperature: -14.1
+Precipitation: 0
+Humidity: 94.6
+**********************************
+Latitude: 69.6039
+Longitude: 20.5325
+Temperature: -4.5
+Precipitation: 0
+Humidity: 67.9
+**********************************
+Latitude: 70.0853
+Longitude: 20.6594
+Temperature: -3.1
+Precipitation: 0
+Humidity: 69.2
+**********************************
+Latitude: 69.705
+Longitude: 21.2092
+Temperature: -8.2
+Precipitation: 0
+Humidity: 72.6
+**********************************
+Latitude: 69.8942
+Longitude: 21.9803
+Temperature: -7.8
+Precipitation: 0
+Humidity: 72.3
+**********************************
+Latitude: 69.0117
+Longitude: 23.0433
+Temperature: -11.7
+Precipitation: 0
+Humidity: 86.4
+**********************************
+Latitude: 70.2394
+Longitude: 22.3486
+Temperature: -3.6
+Precipitation: 0
+Humidity: 63.1
+**********************************
+Latitude: 70.5917
+Longitude: 22.3028
+Temperature: -3.2
+Precipitation: 0
+Humidity: 78.1
+**********************************
+Latitude: 70.9967
+Longitude: 24.6614
+Temperature: -5.1
+Precipitation: 0
+Humidity: 72.8
+**********************************
+Latitude: 70.9781
+Longitude: 25.9747
+Temperature: -3.8
+Precipitation: 0
+Humidity: 82.5
+**********************************
+Latitude: 70.0522
+Longitude: 24.9558
+Temperature: -8.2
+Precipitation: 0
+Humidity: 78.5
+**********************************
+Latitude: 69.4819
+Longitude: 25.105
+Temperature: -12
+Precipitation: 0
+Humidity: 87
+**********************************
+Latitude: 70.9453
+Longitude: 27.3511
+Temperature: -7.6
+Precipitation: 0
+Humidity: 81.5
+**********************************
+Latitude: 71.0411
+Longitude: 27.8514
+Temperature: -8.2
+Precipitation: 0
+Humidity: 80.3
+**********************************
+Latitude: 70.8581
+Longitude: 29.085
+Temperature: -8.9
+Precipitation: 0
+Humidity: 78
+**********************************
+Latitude: 70.1994
+Longitude: 28.1858
+Temperature: -9.7
+Precipitation: 0
+Humidity: 84.6
+**********************************
+Latitude: 70.1733
+Longitude: 28.5536
+Temperature: -9.2
+Precipitation: 0
+Humidity: 79.5
+**********************************
+Latitude: 70.6353
+Longitude: 29.7208
+Temperature: -9.2
+Precipitation: 0
+Humidity: 83.7
+**********************************
+Latitude: 69.7286
+Longitude: 30.0417
+Temperature: -11.6
+Precipitation: 0
+Humidity: 83.6
+**********************************
+Latitude: 0
+Longitude: 0
+Temperature: 27
+Precipitation: 0
+Humidity: 79.2
+**********************************
